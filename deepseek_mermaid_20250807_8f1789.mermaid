@@ -1,0 +1,23 @@
+gantt
+    title AI Automation 90-Day Delivery Roadmap
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %d
+    
+    section Phase 1: Discovery
+    Kickoff Workshop           :active,    p1, 2025-08-07, 7d
+    Process Mapping            :           p2, after p1, 7d
+    AI Readiness Assessment    :           p3, after p2, 7d
+    Leadership Approval        :milestone, m1, 2025-08-28, 1d
+    
+    section Phase 2: Development
+    TnE India/BNA/China Design   :active,  tne_des, 2025-09-01, 10d
+    Cash Application Dev         :         cash_dev, after tne_des, 10d
+    PO Confirmation Build        :         po_build, after tne_des, 14d
+    Vendor Master Design         :         vendor_des, 2025-09-15, 14d
+    
+    section Phase 3: Deployment
+    TnE UAT                :         tne_uat, after tne_des, 7d
+    Cash App Deployment     :         cash_dep, after cash_dev, 3d
+    PO Confirmation Go-Live :         po_live, after po_build, 3d
+    Vendor Master UAT       :         vendor_uat, after vendor_des, 7d
+    Wave 1 Complete        :milestone, m2, 2025-10-25, 1d

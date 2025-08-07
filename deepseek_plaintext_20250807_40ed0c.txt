@@ -1,0 +1,8 @@
+[QUICK WINS]          [HIGH VALUE/COMPLEX]     [LOWER PRIORITY]
+┌─────────────────┐   ┌──────────────────┐    ┌────────────────┐
+│ ▣ TnE India     │   │ ▣ Vendor Master  │    │ ▣ Duplicate    │
+│ ▣ TnE BNA       │   │ ▣ Settlements    │    │   Audit        │
+│ ▣ TnE China     │   │   (Rail/Truck)   │    │ (High Comp/    │
+│ ▣ Cash App      │   │ ▣ Billback       │    │ Low Value)     │
+│ ▣ PO Confirmation│  └──────────────────┘    └────────────────┘
+└─────────────────┘
